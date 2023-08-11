@@ -17,6 +17,7 @@ window.addEventListener("scroll", () => {
     improvise.style.transform = "none";
   } else {
     improvise.style.opacity = 0;
+    improvise.style.transform = "else";
   }
 });
 
